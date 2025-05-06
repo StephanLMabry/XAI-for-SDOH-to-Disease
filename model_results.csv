@@ -1,0 +1,94 @@
+Diagnosis,Model,F1 Score,Accuracy,Precision,Recall
+ADHD,Ensemble,0.856,0.832,0.748,1.000
+Bladder Cancer,Ensemble,0.960,0.962,0.999,0.925
+Bladder Cancer,NN,0.960,0.962,0.999,0.925
+Unknown Cancer,Ensemble,0.959,0.960,0.995,0.925
+Unknown Cancer,XGB,0.958,0.959,0.992,0.925
+Unknown Cancer,NN,0.955,0.956,0.986,0.925
+Bladder Cancer,XGB,0.961,0.962,1.000,0.925
+ADHD,NN,0.855,0.831,0.747,1.000
+ADHD,DT,0.843,0.817,0.740,0.978
+Skin Cancer - Nonmelanoma,Ensemble,0.953,0.954,0.985,0.922
+Angina,NN,0.927,0.930,0.972,0.885
+Angina,XGB,0.927,0.930,0.972,0.885
+Angina,DT,0.642,0.655,0.670,0.615
+Uterine Cancer,XGB,0.948,0.951,1.000,0.902
+Arthritis,Ensemble,0.773,0.775,0.781,0.765
+Arthritis,NN,0.705,0.709,0.717,0.695
+Arthritis,DT,0.703,0.675,0.649,0.767
+Arthritis Other,Ensemble,0.911,0.916,0.971,0.858
+Arthritis Other,XGB,0.895,0.899,0.936,0.858
+Arthritis Other,NN,0.889,0.892,0.919,0.862
+Arthritis Other,DT,0.655,0.656,0.662,0.648
+Lung Cancer,XGB,0.946,0.948,0.999,0.897
+Asthma,XGB,0.695,0.736,0.829,0.598
+Asthma,NN,0.607,0.659,0.720,0.525
+Asthma,DT,0.505,0.578,0.615,0.428
+Melanoma Cancer,Ensemble,0.940,0.943,0.994,0.891
+Bladder Cancer,DT,0.792,0.756,0.693,0.925
+Breast Cancer,Ensemble,0.937,0.939,0.988,0.890
+Breast Cancer,XGB,0.928,0.931,0.970,0.890
+Breast Cancer,NN,0.920,0.923,0.956,0.886
+Breast Cancer,DT,0.698,0.691,0.684,0.713
+Angina,Ensemble,0.935,0.938,0.990,0.885
+Cancer,XGB,0.843,0.838,0.825,0.862
+Cancer,NN,0.820,0.817,0.815,0.826
+Cancer,DT,0.713,0.658,0.617,0.845
+Cervical Cancer,Ensemble,0.924,0.929,1.000,0.859
+Emphysema,Ensemble,0.926,0.930,0.990,0.871
+Cervical Cancer,NN,0.923,0.928,0.996,0.859
+Cervical Cancer,DT,0.760,0.767,0.786,0.736
+Prostate Cancer,Ensemble,0.925,0.929,0.989,0.868
+Colon Cancer,Ensemble,0.913,0.920,0.996,0.843
+Colon Cancer,NN,0.913,0.920,0.996,0.843
+Colon Cancer,DT,0.708,0.707,0.706,0.710
+Cervical Cancer,XGB,0.924,0.929,1.000,0.859
+Diabetes,XGB,0.804,0.807,0.829,0.781
+Diabetes,NN,0.786,0.792,0.819,0.756
+Diabetes,DT,0.654,0.650,0.656,0.652
+Diabetes by DCS,Ensemble,0.929,0.929,0.936,0.923
+Diabetes by DCS,XGB,0.907,0.903,0.881,0.936
+Diabetes by DCS,NN,0.897,0.894,0.880,0.915
+Diabetes by DCS,DT,0.720,0.690,0.663,0.787
+Nonhodgkins Lymphoma,XGB,0.921,0.926,1.000,0.853
+Emphysema,XGB,0.924,0.927,0.984,0.871
+Emphysema,NN,0.918,0.922,0.974,0.869
+Emphysema,DT,0.684,0.716,0.783,0.608
+Colon Cancer,XGB,0.913,0.920,0.997,0.843
+High Cholesterol,Ensemble,0.750,0.750,0.754,0.747
+High Cholesterol,DT,0.711,0.663,0.625,0.824
+High Cholesterol,NN,0.695,0.679,0.665,0.727
+Stroke,Ensemble,0.895,0.901,0.963,0.836
+Lung Cancer,Ensemble,0.945,0.948,0.999,0.897
+Lung Cancer,NN,0.944,0.947,0.997,0.897
+Lung Cancer,DT,0.796,0.779,0.737,0.867
+ADHD,XGB,0.856,0.832,0.748,1.000
+Melanoma Cancer,XGB,0.938,0.941,0.989,0.891
+Melanoma Cancer,NN,0.933,0.936,0.979,0.891
+Melanoma Cancer,DT,0.714,0.706,0.697,0.732
+Cancer,Ensemble,0.851,0.852,0.863,0.840
+Nonhodgkins Lymphoma,Ensemble,0.921,0.926,1.000,0.853
+Nonhodgkins Lymphoma,NN,0.920,0.925,0.998,0.853
+Nonhodgkins Lymphoma,DT,0.736,0.702,0.664,0.824
+Other Cancer,Ensemble,0.930,0.933,0.987,0.878
+Other Cancer,NN,0.922,0.926,0.973,0.875
+Other Cancer,XGB,0.920,0.923,0.966,0.878
+Other Cancer,DT,0.690,0.660,0.636,0.755
+Diabetes,Ensemble,0.815,0.822,0.861,0.774
+Prostate Cancer,XGB,0.924,0.928,0.987,0.868
+Prostate Cancer,NN,0.917,0.921,0.973,0.868
+Prostate Cancer,DT,0.726,0.699,0.669,0.794
+Arthritis,XGB,0.776,0.772,0.764,0.789
+Skin Cancer - Nonmelanoma,NN,0.945,0.946,0.969,0.922
+Skin Cancer - Nonmelanoma,XGB,0.937,0.938,0.952,0.922
+Skin Cancer - Nonmelanoma,DT,0.767,0.757,0.736,0.801
+High Cholesterol,XGB,0.755,0.749,0.740,0.770
+Stroke,XGB,0.880,0.885,0.933,0.834
+Stroke,NN,0.873,0.879,0.933,0.820
+Stroke,DT,0.659,0.662,0.675,0.644
+Unknown Cancer,DT,0.753,0.714,0.666,0.867
+Asthma,Ensemble,0.704,0.746,0.850,0.601
+Uterine Cancer,Ensemble,0.948,0.951,0.999,0.902
+Uterine Cancer,NN,0.948,0.950,0.998,0.902
+Uterine Cancer,DT,0.706,0.737,0.793,0.637
+,,,,,
